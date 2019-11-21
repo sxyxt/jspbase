@@ -7,7 +7,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>用户信息</title>
 </head>
 <body>
 <h1>用户资料</h1>
